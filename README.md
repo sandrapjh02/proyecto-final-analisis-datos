@@ -123,9 +123,10 @@ Desarrollamos un modelo predictivo que permite:
 ---
 
 ##  Instalacion
-git clone https://github.com/sandrapjh02/proyecto-final-analisis-datos
-cd proyecto-final-analisis-datos
-pip install pandas matplotlib seaborn numpy scikit-learn
+- **git clone https://github.com/sandrapjh02/proyecto-final-analisis-datos**
+- **cd proyecto-final-analisis-datos**
+- **pip install pandas matplotlib seaborn numpy scikit-learn**
+
  
 ---
 
