@@ -114,7 +114,7 @@ Desarrollamos un modelo predictivo que permite:
 ##  Herramientas utilizadas
 
 - **Python** (pandas, seaborn, matplotlib)
-- **Power BI** (dashboard interactivo)
+- **Power BI** (dashboard interactivo) Version 2.144.679.0 64-bit(Junio 2025)
 - **GitHub** (control de versiones, ramas colaborativas)
 - **Trello** (gestion agil con SCRUM)
 - **Canva** (diseno visual y presentaciones)
